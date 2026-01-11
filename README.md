@@ -6,7 +6,7 @@ My solutions to LeetCode problems, organized by difficulty.
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy    | 1     |
+| 🟢 Easy    | 2     |
 | 🟡 Medium  | 0     |
 | 🔴 Hard    | 0     |
 
